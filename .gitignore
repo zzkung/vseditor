@@ -1,0 +1,5 @@
+.vscode
+.idea
+node_modules
+
+vseditor-cli-dev/packages/**/node_modules

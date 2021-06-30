@@ -1,0 +1,23 @@
+{
+  "name": "@vseditor-cil-dev/utils",
+  "version": "1.0.0",
+  "description": "vseditor-cli-dev utils",
+  "author": "zzkung <zzkung@outlook.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@zzkung.github.com:zzkung/vseditor-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
